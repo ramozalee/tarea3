@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+padding: 90px 90px 0;
+background-color: rgb(255, 255, 255);
+padding: 50px 50px;
+}
+
+
+table {
+    border: rgb(31, 28, 28) 5px;
+    width:95%; 
+	border-collapse:collapse;
+    border-spacing: 10px 25px;
+    margin: 30px 10px;
+  
+    
+}
+
+
+tr{
+    border: rgb(31, 28, 28) 1px solid;
+    padding: 10px 10px;
+}
+
+td{
+    border: rgb(31, 28, 28) 1px solid;
+    width: 100px;
+}
+
+.TABLAS{
+    width: 100%;
+    margin: 0 auto;
+    border: rgb(31, 28, 28) 1px solid;
+  
+}
+.datos{
+
+    background-color: rgb(48, 48, 129);
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    height: 40px;
+    width: 200px;
+    margin: 10px  1000px;
+    
+
+
+}
